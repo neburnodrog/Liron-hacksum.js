@@ -67,5 +67,5 @@ export const WORDS = [
   "voluptate",
   "web",
   "WebDev",
-  "WebDevelopment,  
+  "WebDevelopment",  
 ];
